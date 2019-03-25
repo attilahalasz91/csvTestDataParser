@@ -1,0 +1,50 @@
+﻿loginName,password,teljesNev,szervezetiEgyseg,firstName,lastName,szerepkor,becsusKompetencia,BecsusLimit,emailCim,INIT_DATA,AKTIV
+admin,xxx,,,,,admin,ékszer,,bbtesting@blackbelt.hu,yes,yes
+fistvan,Abcd1234,István Fekete,1. sz. zálogfiók,István,Fekete,teszt_dolgozo,ékszer,400000,bbtesting@blackbelt.hu,yes,yes
+rolga,Abcd1234,Olga Raktározó,2. sz. zálogfiók,Olga,Raktározó,teszt_dolgozo,ékszer,400000,bbtesting@blackbelt.hu,yes,yes
+telek,Abcd1234,Elek Teszt,3. sz. zálogfiók,Elek,Teszt,teszt_dolgozo,ékszer,400000,bbtesting@blackbelt.hu,yes,yes
+eelemer,Abcd1234,Elemér Egér,4. sz. zálogfiók,Elemér,Egér,teszt_dolgozo,ékszer,400000,bbtesting@blackbelt.hu,yes,yes
+kbela,Abcd1234,Béla Kis,5. sz. zálogfiók,Béla,Kis,teszt_dolgozo,ékszer,400000,bbtesting@blackbelt.hu,yes,yes
+fdavid,Abcd1234,Dávid Fehér,6. sz. zálogfiók,Dávid,Fehér,teszt_admin,ékszer,400000,bbtesting@blackbelt.hu,yes,yes
+szsofia,Abcd1234,Zsófia Sárga,7. sz. zálogfiók,Zsófia,Sárga,teszt_dolgozo,ékszer,400000,bbtesting@blackbelt.hu,yes,yes
+zkata,Abcd1234,Kata Zöld,8. sz. zálogfiók,Kata,Zöld,"teszt_admin,teszt_dolgozo",ékszer,400000,bbtesting@blackbelt.hu,yes,yes
+hhelga,Abcd1234,Helga Hideg,9. sz. zálogfiók,Helga,Hideg,teszt_dolgozo,ékszer,400000,bbtesting@blackbelt.hu,yes,yes
+kbenedek,Abcd1234,Benedek Kék,10. sz. zálogfiók,Benedek,Kék,teszt_dolgozo,ékszer,400000,bbtesting@blackbelt.hu,yes,yes
+AnakinAdmin,Abcd1234,Anakin Admin,,Anakin,Admin,AnakinAdmin,,,bbtesting@blackbelt.hu,DEMO,yes
+AlbaZf1fv,Abcd1234,Alba Zf11fv,11. sz. Zálogfiók,Alba,Zf11fv,Fiókvezető,,,bbtesting@blackbelt.hu,DEMO,yes
+BeaZf11rk,Abcd1234,Bea Zf11rk,11. sz. Zálogfiók,Bea,Zf11rk,Raktárkezelő,,,bbtesting@blackbelt.hu,DEMO,yes
+CinkaZf11rt,Abcd1234,Cinka Zf11rt,11. sz. Zálogfiók,Cinka,Zf11rt,Raktáros,,,bbtesting@blackbelt.hu,DEMO,yes
+DianaZf1bs,Abcd1234,Diana Zf11bs,11. sz. Zálogfiók,Diana,Zf11bs,Becsüs,,100000,bbtesting@blackbelt.hu,DEMO,yes
+EllaZf11pt,Abcd1234,Ella Zf11pt,11. sz. Zálogfiók,Ella,Zf11pt,Pénztáros,,,bbtesting@blackbelt.hu,DEMO,yes
+AndrásZf12fv,Abcd1234,András Zf12fv,12. sz. Zálogfiók,András,Zf12fv,Fiókvezető,,,bbtesting@blackbelt.hu,DEMO,yes
+BélaZf12rk,Abcd1234,Béla Zf12rk,12. sz. Zálogfiók,Béla,Zf12rk,Raktárkezelő,,,bbtesting@blackbelt.hu,DEMO,yes
+CsabaZf12rt,Abcd1234,Csaba Zf12rt,12. sz. Zálogfiók,Csaba,Zf12rt,Raktáros,,,bbtesting@blackbelt.hu,DEMO,yes
+DaniZf12bs,Abcd1234,Dani Zf12bs,12. sz. Zálogfiók,Dani,Zf12bs,Becsüs,,400000,bbtesting@blackbelt.hu,DEMO,yes
+ElekZf012pt,Abcd1234,Elek Zf012pt,12. sz. Zálogfiók,Elek,Zf012pt,Pénztáros,,,bbtesting@blackbelt.hu,DEMO,yes
+FabóZf3fv,Abcd1234,Fabó Zf3fv,13. sz. Zálogfiók,Fabó,Zf3fv,Fiókvezető,,,bbtesting@blackbelt.hu,DEMO,yes
+GaraZf13rk,Abcd1234,Gara Zf13rk,13. sz. Zálogfiók,Gara,Zf13rk,Raktárkezelő,,,bbtesting@blackbelt.hu,DEMO,yes
+HangaZf13rt,Abcd1234,Hanga Zf13rt,13. sz. Zálogfiók,Hanga,Zf13rt,Raktáros,,,bbtesting@blackbelt.hu,DEMO,yes
+IdaZf13bs,Abcd1234,Ida Zf13bs,13. sz. Zálogfiók,Ida,Zf13bs,Becsüs,,300000,bbtesting@blackbelt.hu,DEMO,yes
+JankaZf15fv,Abcd1234,Janka Zf15fv,15. sz. Zálogfiók,Janka,Zf15fv,Fiókvezető,,,bbtesting@blackbelt.hu,DEMO,yes
+KadaZf15rt,Abcd1234,Kada Zf15rt,15. sz. Zálogfiók,Kada,Zf15rt,Raktáros,,,bbtesting@blackbelt.hu,DEMO,yes
+LaraZf15bs,Abcd1234,Lara Zf15bs,15. sz. Zálogfiók,Lara,Zf15bs,Becsüs,,6500000,bbtesting@blackbelt.hu,DEMO,yes
+MiaZf16fv,Abcd1234,Mia Zf16fv,16. sz. Zálogfiók,Mia,Zf16fv,Fiókvezető,,,bbtesting@blackbelt.hu,DEMO,yes
+NanóZf16rt,Abcd1234,Nanó Zf16rt,16. sz. Zálogfiók,Nanó,Zf16rt,Raktáros,,,bbtesting@blackbelt.hu,DEMO,yes
+testuser1,Abcd1234,Test User1,1. sz. zálogfiók,Test,User1,teszt_dolgozo,,123456,bbtesting@blackbelt.hu,no,yes
+testuser2,Abcd1234,Test User2,1. sz. zálogfiók,Test,User2,teszt_dolgozo,,234567,bbtesting@blackbelt.hu,no,yes
+HelenZf16mg,Abcd1234,Helen Zf16mg,16. sz. Zálogfiók,Helen,Zf16mg,"Fiókvezető,Becsüs",,,bbtesting@blackbelt.hu,DEMO,yes
+MarkZf11mg,Abcd1234,Mark Zf11mg,11. sz. Zálogfiók,Mark,Zf11mg,Fiókvezető,,,bbtesting@blackbelt.hu,DEMO,yes
+KenZf12mg,Abcd1234,Ken Zf12mg,12. sz. Zálogfiók,Ken,Zf12mg,Fiókvezető,,,bbtesting@blackbelt.hu,DEMO,yes
+JoeZf13mg,Abcd1234,Joe Zf13mg,13. sz. Zálogfiók,Joe,Zf13mg,Fiókvezető,,,bbtesting@blackbelt.hu,DEMO,yes
+KimZf12be,Abcd1234,Kim Zf12be,12. sz. Zálogfiók,Kim,Zf12be,Belső ellenőr,,,bbtesting@blackbelt.hu,DEMO,yes
+TonyZf12ut,Abcd1234,Tony Zf12ut,12. sz. Zálogfiók,Tony,Zf12ut,Üzleti támogató,,,bbtesting@blackbelt.hu,DEMO,yes
+tattila,Abcd1234,Atilla Tóth,1. sz. zálogfiók,Atilla,Tóth,teszt_dolgozo,ékszer,400000,bbtesting@blackbelt.hu,yes,yes
+kmark,Abcd1234,Mark kék,1. sz. zálogfiók,Mark,kék,teszt_dolgozo,ékszer,400000,bbtesting@blackbelt.hu,yes,yes
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

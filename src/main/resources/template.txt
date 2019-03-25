@@ -1,0 +1,83 @@
+szervezeti egyseg, felhasznalo, szerepkor, kezdete, vege, aktív, init data
+beosztas(zalogTargyakMap.get("%s"), felhasznaloMap("%s"), szerepkorMap.get("%s"), date("%s"), date("%s"), AktivMap.get("%s");
+
+beosztas(true, istvan, tesztDolgozoSzerepkor, zalogfiok1);
+
+				date-hez "" check !!!
+
+loginName	password	teljesNev	szervezetiEgyseg	firstName	lastName	szerepkor	becsusKompetencia	BecsusLimit	emailCim	INIT_DATA	AKTIV
+felhasznaloMap.put("%s %s", felhasznalo(
+                   userInfo("%s", "%s", "%s"), adminRole,
+                   singletonList(szerepkorMap.get("%s")),
+                   %s,
+                   singletonList(zalognemMap.get("%")),
+                   %s));
+
+elotag	csaladinev	keresztnev	kersztnev2	full name	szuletesi ev	szuletes hely	szuletesi orszag
+allampolgarsag	szuletesi nev	edesanyja neve	orszag	kozterulet neve	tipusa	telepules	iranyitoszam
+teljes_cim	email	telfonszamotthoni	telfonszammobil	telfonszamfax	okmanyszam	okmanytipus	ervenyessegiido	INIT_DATA
+
+               full name, cím -> kihagyni!
+
+ugyfel("%s", "%s", "%s", "%s", date("%s"), "%s",
+          "%s", "%s", "%s", "%s", "%s", "%s",
+          kozteruletTipusaMap.get("%s"), "%s", %s, "%s",
+          "%s", "%s", "%s","%s",okmanyTipusMap.get("%s"),
+          date("%s"));
+
+generate maps with keys!!! - keyeket kigyűjteni set-be
+.put("adoazonosito", );
+
+new TestZalogtargyBuilder()
+					.azon("%s")
+					.becslesIdopont(date("%s"))
+					.bruttoSulyG(%sf)
+                    .nettoSulyG(%sf)
+                    .szelessegMm(%sf)
+                    .hosszMm(%sf)
+                    .tetel(raktariTetelek.get("%s"))
+                    .finomsag(finomsagMap.get("%s"))
+                    .tipus(tipusMap.get("%s"))
+                    .becsles(becslesMap.get("%s"))
+                    .leiras("%s")
+                    .megjegyzes("%s")
+                    .becsultErtek(%sf)
+                    .becsus(becsus.get("%s"))
+                    .arfolyam(arfolyam.get("%s"))
+                    .holVan(holVanMap.get("%s"))
+                    .anyag(anyagMap.get("%s"))
+                    .zalognem(zalognemMap.get("%s"))
+                    .create();
+
+.put("[[Azon]]", new TestZalogtargyBuilder()
+                    	.azon("[[Azon]]")
+                    	.becslesIdopont(date("[[BecslesIdopont]]"))
+                    	.bruttoSulyG([[BruttoSulyG]]f)
+	.nettoSulyG([[NettoSulyG]]f)
+	.szelessegMm([[SzelessegMm]]f)
+	.hosszMm([[HosszMm]]f)
+	.tetel(raktariTetelek.get("[[Tetel]]"))
+	.finomsag([N[anyag]N][[Finomsag]]finomsag)
+	.tipus([N[Tipus]N])
+	.becsles([N[Becsles]N])
+	.leiras("[[leiras]]")
+	.megjegyzes("[[megjegyzes]]")
+	.becsultErtek([[BecsultErtek]]f)
+	.becsus(becsus.get("[[Becsus]]"))
+	.arfolyam([N[anyag]N][[Arfolyam]]arfolyam))
+	.holVan([N[HolVan]N])
+	.anyag([N[anyag]N])
+	.zalognem([N[CikkCsoport]N])
+	.create());
+
+felhasznalok.put("[[loginName]]", felhasznalo(
+	"[[loginName]]",
+	zalogfiokok.get("[[szervezetiEgyseg]]"),
+	"[[firstName]]",
+	"[[lastName]]",
+	szerepkorok.get("[[szerepkor]]"),
+	"[[becsusKompetencia]]",
+	"[[BecsusLimit]]",
+	"[[emailCim]]",
+	adminRole
+));
